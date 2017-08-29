@@ -20,4 +20,4 @@ Lastly you should get a message prompting whether your purchase could go through
 
 ![Third Picture](Images/message.png)
 
-[[embed url=http://www.youtube.com/2F2i6EQsPZY]]
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=2F2i6EQsPZY)]
