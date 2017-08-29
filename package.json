@@ -1,0 +1,21 @@
+{
+  "name": "bamazon-npms",
+  "version": "1.0.0",
+  "description": "inquirer and mysql npm packages, inquirer for ease asking questionsto users and mysql npm package to grab table data easily",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inquirer",
+    "npm",
+    "mysql",
+    "npm"
+  ],
+  "author": "MyKey",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  }
+}
