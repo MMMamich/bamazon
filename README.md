@@ -23,4 +23,4 @@ Lastly you should get a message prompting whether your purchase could go through
 ![Third Picture]
 (https://github.com/MMMamich/bamazon/Images/message.png)
 
-danielsan: ":fireworks: :trophy: :fireworks:"
+![Music](Foxy Shazam - Unstoppable (Video).mp3)
