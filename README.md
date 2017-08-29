@@ -15,13 +15,13 @@ After that fill out the appropiate prompts that are shown.  __DO NOT__ Type text
 you to continue; your screen should look like the picture below.
 
 ![Second Picture]
-(https://github.com/MMMamich/bamazon/Images/insert.png)
+(/Images/insert.png)
 
 
 Lastly you should get a message prompting whether your purchase could go through or not!
 
 ![Third Picture]
-(https://github.com/MMMamich/bamazon/Images/message.png)
+(/Images/message.png)
 
 
-[[embed url=https://youtu.be/oomCIXGzsR0]]
+[[embed url=http://www.youtube.com/watch?v=2F2i6EQsPZY]]
