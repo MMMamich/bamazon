@@ -23,4 +23,5 @@ Lastly you should get a message prompting whether your purchase could go through
 ![Third Picture]
 (https://github.com/MMMamich/bamazon/Images/message.png)
 
-![Music](Foxy Shazam - Unstoppable (Video).mp3)
+
+[[embed url=https://youtu.be/oomCIXGzsR0]]
